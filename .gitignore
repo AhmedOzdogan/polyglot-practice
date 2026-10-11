@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+*.class
+target/
+build/
+.gradle/
+.idea/
+.vscode/
+*.iml
+.DS_Store
