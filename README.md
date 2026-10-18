@@ -29,6 +29,7 @@ Python:
 
 ```sh
 python3 01-variables-and-types/variables_and_types.py
+npm run typecheck:py   # pyright; Python ignores type hints at runtime
 ```
 
 ## Topics
